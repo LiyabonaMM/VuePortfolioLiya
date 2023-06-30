@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Project 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "technologies": "HTML, CSS, JavaScript"
+  },
+  {
+    "id": 2,
+    "title": "Project 2",
+    "description": "Ut pretium, justo et vestibulum sollicitudin.",
+    "technologies": "Vue.js, Node.js, MongoDB"
+  }
+]

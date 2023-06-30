@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "company": "ABC Inc.",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam dapibus neque, quis cursus odio aliquet a."
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "company": "XYZ Corp.",
+    "message": "Ut pretium, justo et vestibulum sollicitudin, elit enim bibendum elit, in dapibus nunc est ac diam."
+  }
+]

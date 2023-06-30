@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "degree": "Bachelor of Science",
+    "university": "ABC University",
+    "year": "2015-2019"
+  },
+  {
+    "id": 2,
+    "degree": "Master of Business Administration",
+    "university": "XYZ University",
+    "year": "2020-2022"
+  }
+]

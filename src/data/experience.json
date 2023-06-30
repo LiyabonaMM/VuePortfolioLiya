@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "company": "ABC Inc.",
+    "duration": "2019-2021",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 2,
+    "title": "Web Developer",
+    "company": "XYZ Corp.",
+    "duration": "2021-Present",
+    "description": "Ut pretium, justo et vestibulum sollicitudin."
+  }
+]
